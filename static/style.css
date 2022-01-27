@@ -94,6 +94,7 @@ body {
     .img-box-section1 {
         width: 250px;
         height: 250px;
+        background-repeat: no-repeat;
     }
     .text-box-section1 {
         margin-bottom: 2vh;
